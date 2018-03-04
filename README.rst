@@ -275,11 +275,11 @@ Remember: the ``./run_tests.py`` script is not useful for your own tests; only i
   :target: `Coveralls`_
   :alt: Coveralls results_
 
-.. |pip version| image:: https://pypip.in/v/pybrowsertest/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/pybrowsertest.svg
     :target: https://pypi.python.org/pypi/pybrowsertest
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/pybrowsertest/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/pybrowsertest.svg
     :target: https://pypi.python.org/pypi/pybrowsertest
     :alt: Number of PyPI downloads
 
